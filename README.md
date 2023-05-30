@@ -1,2 +1,2 @@
-# 25-maktab
-25-maktab veb sayti
+# school
+maktab uchun web sayt hech qanday framework ishlatilmagan "php mysql"
